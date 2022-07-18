@@ -106,13 +106,13 @@ body{
     background-size: cover;
 }
 .app-download:nth-child(1){
-    background-image: url(apple-buttom.png);
+    background-image: url(Images/apple-buttom.png);
     width: 150px;
     height: 45px;
     border-radius: 5%;
 }
 .app-download:nth-child(2){
-    background-image: url(googleplay-buttom.png);
+    background-image: url(Images/googleplay-buttom.png);
     width: 160px;
     height: 60px;
 }
